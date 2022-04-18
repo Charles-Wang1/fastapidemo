@@ -1,3 +1,9 @@
+#pip install fastapi
+#pip3 install fastapi
+#python -m pip install fastapi
+#python3 -m pip install fastapi
+
+
 #Imports go here
 
 
