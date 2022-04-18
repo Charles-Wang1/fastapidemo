@@ -3,6 +3,10 @@
 #python -m pip install fastapi
 #python3 -m pip install fastapi
 
+#pip install uvicorn
+#pip3 install uvicorn
+#python -m pip install uvicorn
+#python3 -m pip install uvicorn
 
 #Imports go here
 
